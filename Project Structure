@@ -1,0 +1,5 @@
+number-guessing-game/
+│
+├── index.html
+├── styles.css
+└── script.js
